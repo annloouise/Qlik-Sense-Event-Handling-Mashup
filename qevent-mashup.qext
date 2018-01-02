@@ -1,0 +1,14 @@
+{
+	"type": "mashup",
+	"name": "qevent-mashup",
+	"description": "Mashup to test Capability API events",
+	"version": "1.0.0",
+	"author": "Ann-Louise Andersson",
+	"homepage": "",
+	"keywords": "qlik-sense, mashup, app.on",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
