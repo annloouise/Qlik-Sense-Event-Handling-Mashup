@@ -23,8 +23,6 @@ Follow this guide to open the mashup in Qlik Sense:
 * Close the app --> the 'closed' listener will catch this issue
 * Open app again after it has been closed
 
-[Documentation]()
-
 ![Event Handling Mashup](/event-handling-mashup.png?raw=true "Event Handling Mashup")
 
 ## Author
